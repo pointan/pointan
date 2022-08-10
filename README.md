@@ -8,7 +8,7 @@
 ## Find me on ...
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="20"/> [0000-0001-8642-1161](https://orcid.org/0000-0001-8642-1161)
-- <img src="https://aist.fh-hagenberg.at/wp-content/uploads/2021/06/Logo-white.svg" alt="Twitter" width="20"/> [@pointan93](twitter.com/pointan93)
+- <img src="https://aist.fh-hagenberg.at/wp-content/uploads/2021/06/Logo-white.svg" alt="Twitter" width="20"/> [@pointan93](https://twitter.com/pointan93)
 - <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20"/> [LinkedIn](https://at.linkedin.com/in/andreas-pointner-27aa2b229)
 - <img src="https://static.thenounproject.com/png/1277383-200.png" alt="Google Scholar" width="20"/> [Google Scholar](https://scholar.google.at/citations?user=GdUUKKUAAAAJ&hl=de)
 - <img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e5/Fhooe-logo.svg/1200px-Fhooe-logo.svg.png" alt="Pure" width="20"/> [Pure](https://pure.fh-ooe.at/en/persons/andreas-manfred-pointner)
