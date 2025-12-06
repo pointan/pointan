@@ -3,6 +3,7 @@
 ## I'm Andi
 
 - 🔭 Research Associate @ [University of Applied Sciences Upper Austria, Campus Hagenberg](https://www.fh-ooe.at/en/hagenberg-campus/)
+- 🛠️ Solutions Architect @ [ELGA GmbH](https://www.elga.gv.at/)
 - 🎓 Next milestone: PhD in Engineering Sciences @ [JKU](https://www.jku.at)
 
 ## Find me on ...
